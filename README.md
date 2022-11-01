@@ -1,3 +1,8 @@
+# What is this repo
+This repo is my solution to the Coffee Machine Java Challenge, since it is in a private repo I had to copy the solution in here.
+
+![Screenshot 2022-11-01 184854](https://user-images.githubusercontent.com/23359572/199303285-e35384fe-3613-4510-ab28-0aaa26e4bf7c.jpg)
+
 # Possible improvements
 
 - Add ObjectMothers for tests cases.
